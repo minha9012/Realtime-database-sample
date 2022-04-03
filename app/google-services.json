@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "586116942796",
+    "project_id": "realtime-sample-86365",
+    "storage_bucket": "realtime-sample-86365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586116942796:android:030842edae5f3d3fc8eb69",
+        "android_client_info": {
+          "package_name": "com.example.realtime_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586116942796-sn5iod5s3dbt5hqcs3vlphpc4qgrs1vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6eZfN_CNolIlB3m6dEjznYa7dgT0_nvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586116942796-sn5iod5s3dbt5hqcs3vlphpc4qgrs1vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586116942796:android:7d39d38f24bae369c8eb69",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586116942796-k34pcp0iakplpbbe8ffpqb6huf27o4pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimedatabasesample",
+            "certificate_hash": "f220bac9123213fe34cffa2fa25896f97adcaebd"
+          }
+        },
+        {
+          "client_id": "586116942796-sn5iod5s3dbt5hqcs3vlphpc4qgrs1vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6eZfN_CNolIlB3m6dEjznYa7dgT0_nvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586116942796-sn5iod5s3dbt5hqcs3vlphpc4qgrs1vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
